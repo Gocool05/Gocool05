@@ -2,9 +2,7 @@
 
 ###
 
-<div align="center">
-  <img height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDYwaHJyaXljcTl0aDV1cWM0eGtnNGY1cHVwb3IxcnQzcWl3c2ltMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sk6yL9EGVeAcE/giphy.gif"  />
-</div>
+
 
 ###
 
@@ -36,6 +34,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
 </div>
 
+<div align="right">
+  <img height="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNoMmZrdWsyMXVrMThjaWNhMTNvcGNnbHRkN2Z0aGNwZTA5enc5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.gif"  />
+</div>
 ###
 
 <div align="left">
